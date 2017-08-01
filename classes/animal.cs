@@ -1,16 +1,11 @@
+using System;
+
 public abstract class Animal {
 
     public int legs;
     public string name;
     public float weight;
-    public string voice{
-        get{
-            return voice;
-        }
-        set{
-            voice = value;
-        }
-    }
+    public string voice;
     public string move;
 
     public string Speak(){

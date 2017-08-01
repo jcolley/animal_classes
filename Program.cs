@@ -8,7 +8,7 @@ namespace animal_classes
         {
             Retriever myDog = new Retriever("Spot", 20, "run", "long", "golden", 4);
             //Console.WriteLine("TEST: "+myDog.Speak());
-            myDog.Speak();
+            Console.WriteLinemyDog.voice);
         }
     }
 }
