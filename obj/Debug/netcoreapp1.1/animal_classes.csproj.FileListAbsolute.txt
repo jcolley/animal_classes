@@ -1,0 +1,8 @@
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/bin/Debug/netcoreapp1.1/animal_classes.deps.json
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/bin/Debug/netcoreapp1.1/animal_classes.runtimeconfig.json
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/bin/Debug/netcoreapp1.1/animal_classes.runtimeconfig.dev.json
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/bin/Debug/netcoreapp1.1/animal_classes.dll
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/bin/Debug/netcoreapp1.1/animal_classes.pdb
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/obj/Debug/netcoreapp1.1/animal_classes.AssemblyInfo.cs
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/obj/Debug/netcoreapp1.1/animal_classes.dll
+/Users/johncolley/Desktop/DojoAssignments/csharp/animal_classes/obj/Debug/netcoreapp1.1/animal_classes.pdb
